@@ -1,2 +1,1 @@
-# Mobile-Application
-DBMS Project
+# DBDS_Team
