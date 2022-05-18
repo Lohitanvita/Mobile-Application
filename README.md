@@ -1,4 +1,4 @@
-# Android Application
+# DBMS Final Project
 
 
 **Database for Data Science Android Application Development**
